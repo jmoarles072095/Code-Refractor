@@ -10,3 +10,4 @@ Refactoring existing code to make it more accessible and undestandable
 4. Changed color of <p> <a> tag to black and adde white background
 5. Changed <div> tags to appropiate semantic tags main, sections and aside
 6. Consolidated multiple tags in css file to make file easier to understand and read
+7. Changed navbar for document
