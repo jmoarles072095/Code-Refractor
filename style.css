@@ -41,12 +41,14 @@ body {
 }
 
 a {
-    color: #ffffff;
+    color: black;
     text-decoration: none;
+    background: white;
 }
 
 p {
     font-size: 16px;
+    color: black;
 }
 
 .hero {
